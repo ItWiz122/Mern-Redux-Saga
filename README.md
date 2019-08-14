@@ -10,6 +10,5 @@
 </div>
 <br>
 <div align="center">
-<b><a href="https://harmony-framework.github.io/harmony-boilerplate/" rel="nofollow">https://harmony-framework.github.io/harmony-boilerplate/</a></b>
 </div>
 </article>
